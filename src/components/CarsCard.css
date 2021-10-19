@@ -1,0 +1,13 @@
+.coupon {
+  border: 5px solid #bbb; /* Dotted border */
+  width: 30%;
+  border-radius: 15px; /* Rounded border */
+  margin: 10px auto; /* Center */
+  max-width: 600px;
+}
+
+.container {
+  padding: 2px 16px;
+  background-color: #f1f1f1;
+  text-align: center;
+}
